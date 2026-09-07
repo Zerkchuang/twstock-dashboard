@@ -1,0 +1,6 @@
+# 這個 repo 是公開的,只放產生出來的頁面。
+# 任何不是 index.html 的東西都預設擋掉,避免手滑把資料庫或設定丟進來。
+*
+!.gitignore
+!.nojekyll
+!index.html
